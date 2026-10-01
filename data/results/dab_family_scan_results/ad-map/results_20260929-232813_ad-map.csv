@@ -1,0 +1,1 @@
+utc,probe_index,probe_family_hex,grammar,marker_hex,tx_can_id_hex,tx_data_hex,tx_ok,pre_window_frames,post_window_frames,candidate_frames,candidate_families,candidate_ids,candidate_payloads,first_candidate_latency_ms,last_candidate_latency_ms,active_001f_seen,response_103c_seen,operator_result,notes
