@@ -1,0 +1,19 @@
+{
+  "created_utc": "2026-09-30T11:04:18.791Z",
+  "script": "dab_validation_tests.py",
+  "test": "ad-matrix",
+  "bitrate": 1000000,
+  "arguments": {
+    "command": "ad-matrix",
+    "send": true,
+    "injector": "PCAN_USBBUS1",
+    "observer": "PCAN_USBBUS2",
+    "output": "dab_validation_results",
+    "pre": 0.25,
+    "post": 0.35,
+    "gap": 0.4,
+    "repeats": 3,
+    "address": null,
+    "handler": "<function run_ad_matrix at 0x00000243EF54CA40>"
+  }
+}
