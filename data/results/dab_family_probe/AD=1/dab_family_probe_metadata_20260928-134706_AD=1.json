@@ -1,0 +1,34 @@
+{
+  "script": "dab_family_probe.py",
+  "finished_utc": "2026-09-28T11:47:58.532+00:00",
+  "channel": "PCAN_USBBUS1",
+  "bitrate": "1M",
+  "send_enabled": true,
+  "families_hex": [
+    "0010",
+    "0012",
+    "0013",
+    "0014",
+    "0015"
+  ],
+  "token_hex": "C82D",
+  "payload_hex": "01 00 00 2D C8",
+  "repeats": 3,
+  "shuffle": true,
+  "seed": 42,
+  "baseline_seconds": 10.0,
+  "pre_seconds": 0.5,
+  "observe_seconds": 0.3,
+  "gap_seconds": 2.0,
+  "response_ids": [
+    "103C0401",
+    "103C0481"
+  ],
+  "latency_clock": "time.monotonic_ns",
+  "baseline_frames": 3998,
+  "baseline_response_frames": 0,
+  "total_rx": 20268,
+  "total_tx_ok": 15,
+  "total_tx_failed": 0,
+  "stopped_by_user": false
+}
