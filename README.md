@@ -8,6 +8,7 @@
 **Test constraint:** One physical inverter was available  
 **Instrumentation:** PEAK PCAN-USB; `PCAN_USBBUS1` injector and `PCAN_USBBUS2` observer  
 **Bus:** Classical CAN, 1 Mbit/s, 29-bit extended identifiers
+**Needs:** Traces, Samples, Logs of communication between "D connect Box" and "Active Driver Plus", "ADAC", "MCE/C" or "MCE/P".
 
 &gt; [!IMPORTANT]
 &gt; This is a reverse-engineered description, not a DAB specification. It consolidates all DOCX reports in the project and resolves earlier hypotheses against the latest evidence. Fields marked **unknown** must not be treated as stable protocol definitions.
