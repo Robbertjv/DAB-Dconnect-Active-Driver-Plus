@@ -1,0 +1,4 @@
+utc,host_rel_ms,phase,communication_icon,unit_count,error_message,setpoint_bar,display_pressure_bar,status_bar_sp,status_bar_rp,pump_state,mechanical_pressure_bar,notes
+2026-09-30T06:50:05.941Z,10282.0,single_controller_address_2,Not connected,changes 1 to 0,NA,3.1,3.1,,,SB,3.1,
+2026-09-30T06:50:58.800Z,63141.0,single_controller_address_3,Not connected,1,NA,3,3.1,,,SB,3.1,
+2026-09-30T06:51:36.600Z,100938.0,single_controller_address_5,NC,1,NA,3,3.1,,,SB,3.1,

@@ -1,0 +1,13 @@
+utc,host_rel_ms,test,phase,repeat,metric,value,details
+2026-09-30T06:50:05.941Z,10282.0,addresses,single_controller_address_2,1,address,2,
+2026-09-30T06:50:05.941Z,10282.0,addresses,single_controller_address_2,1,001f_detected,0,
+2026-09-30T06:50:05.941Z,10282.0,addresses,single_controller_address_2,1,activation_latency_ms,,
+2026-09-30T06:50:47.804Z,52141.0,addresses,single_controller_address_2,1,recovery_delay_ms,0.0,
+2026-09-30T06:50:58.799Z,63141.0,addresses,single_controller_address_3,2,address,3,
+2026-09-30T06:50:58.799Z,63141.0,addresses,single_controller_address_3,2,001f_detected,0,
+2026-09-30T06:50:58.800Z,63141.0,addresses,single_controller_address_3,2,activation_latency_ms,,
+2026-09-30T06:51:25.602Z,89938.0,addresses,single_controller_address_3,2,recovery_delay_ms,0.0,
+2026-09-30T06:51:36.600Z,100938.0,addresses,single_controller_address_5,3,address,5,
+2026-09-30T06:51:36.600Z,100938.0,addresses,single_controller_address_5,3,001f_detected,0,
+2026-09-30T06:51:36.600Z,100938.0,addresses,single_controller_address_5,3,activation_latency_ms,,
+2026-09-30T06:51:58.884Z,123219.0,addresses,single_controller_address_5,3,recovery_delay_ms,0.0,
