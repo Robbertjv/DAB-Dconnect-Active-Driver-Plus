@@ -1,0 +1,58 @@
+{
+  "started_utc": "2026-09-30T06:41:08.568Z",
+  "test": "keepalive",
+  "injector_channel": "PCAN_USBBUS1",
+  "observer_channel": "PCAN_USBBUS2",
+  "bitrate": 1000000,
+  "output_dir": "dab_peer_validation_results",
+  "repeats": 20,
+  "baseline_s": 10.0,
+  "activation_interval_ms": 5.0,
+  "activation_timeout_s": 10.0,
+  "active_hold_s": 3.0,
+  "observation_s": 3.0,
+  "keepalive_intervals_ms": [
+    50.0,
+    100.0,
+    200.0,
+    500.0,
+    1000.0,
+    2000.0
+  ],
+  "family_interval_ms": 500.0,
+  "pair_gaps_ms": [
+    0.2,
+    0.5,
+    1.0,
+    2.0,
+    5.0,
+    10.0,
+    20.0,
+    50.0,
+    100.0,
+    200.0,
+    500.0
+  ],
+  "interruption_gaps_ms": [
+    100.0,
+    250.0,
+    500.0,
+    750.0,
+    900.0,
+    1000.0,
+    1100.0,
+    1250.0,
+    1500.0,
+    2000.0
+  ],
+  "addresses": [
+    2,
+    3,
+    5
+  ],
+  "allow_001f_injection": false,
+  "payload_rate_hz": 2.0,
+  "payload_duration_s": 3.0,
+  "finished_utc": "2026-09-30T06:42:16.461Z",
+  "status": "completed"
+}
