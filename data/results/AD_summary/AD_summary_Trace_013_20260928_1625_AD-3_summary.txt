@@ -1,0 +1,112 @@
+======================================================================
+FILE: Trace_013_20260928_1625_AD-3.trc
+======================================================================
+
+Frames: 15754
+Duration: 39376.500 ms
+Unique CAN IDs: 14864
+29-bit frames: 15754
+11-bit frames: 0
+
+MOST COMMON CAN IDs
+----------------------------------------------------------------------
+0x0001BF0E         3  first=    6564.000 ms  median_dt=15491.1000 ms
+0x0011BF0E         3  first=    6564.100 ms  median_dt=15491.1500 ms
+0x0001807A         3  first=    6684.000 ms  median_dt= 4674.5500 ms
+0x0011807A         3  first=    6684.100 ms  median_dt= 4674.5500 ms
+0x00017D5E         3  first=    7068.900 ms  median_dt=10366.6000 ms
+0x00117D5E         3  first=    7069.100 ms  median_dt=10366.5500 ms
+0x00019EEC         3  first=    7918.900 ms  median_dt=17238.4500 ms
+0x00119EEC         3  first=    7919.000 ms  median_dt=17238.4500 ms
+0x00014F6D         3  first=    8528.800 ms  median_dt=17138.4500 ms
+0x00114F6D         3  first=    8528.800 ms  median_dt=17138.5500 ms
+0x00010AF4         3  first=    9193.700 ms  median_dt=16923.5000 ms
+0x00110AF4         3  first=    9193.800 ms  median_dt=16923.5500 ms
+0x0001E04D         3  first=    9483.700 ms  median_dt=11451.5000 ms
+0x0011E04D         3  first=    9483.800 ms  median_dt=11451.5000 ms
+0x0001B135         3  first=   11378.500 ms  median_dt=12428.9000 ms
+0x0011B135         3  first=   11378.600 ms  median_dt=12428.9500 ms
+0x0001A443         3  first=   11733.500 ms  median_dt= 2467.2500 ms
+0x0011A443         3  first=   11733.600 ms  median_dt= 2467.2500 ms
+0x00010F17         3  first=   13233.400 ms  median_dt=11291.5000 ms
+0x00110F17         3  first=   13233.500 ms  median_dt=11291.5000 ms
+0x0001D793         3  first=   13573.300 ms  median_dt= 5577.0500 ms
+0x0011D793         3  first=   13573.500 ms  median_dt= 5577.0000 ms
+0x00018CE8         3  first=   16388.000 ms  median_dt=13891.3500 ms
+0x00118CE8         3  first=   16388.100 ms  median_dt=13891.3500 ms
+0x0001D852         3  first=   18782.900 ms  median_dt= 7174.3500 ms
+0x0011D852         3  first=   18783.000 ms  median_dt= 7174.3500 ms
+0x00017055         3  first=   21782.600 ms  median_dt=11886.4500 ms
+0x00117055         3  first=   21782.700 ms  median_dt=11886.4500 ms
+0x0001501C         3  first=   25912.300 ms  median_dt= 3302.2000 ms
+0x0011501C         3  first=   25912.400 ms  median_dt= 3302.2000 ms
+0x00018E30         3  first=   29411.900 ms  median_dt= 7109.4000 ms
+0x00118E30         3  first=   29412.000 ms  median_dt= 7109.4000 ms
+0x000113A8         3  first=   35821.400 ms  median_dt= 4159.6500 ms
+0x001113A8         3  first=   35821.500 ms  median_dt= 4159.6500 ms
+0x0001E00A         3  first=   37321.300 ms  median_dt= 2044.8000 ms
+0x0011E00A         3  first=   37321.400 ms  median_dt= 2044.8000 ms
+0x0001A6AA         2  first=    6274.100 ms  median_dt=32327.0000 ms
+0x0011A6AA         2  first=    6274.200 ms  median_dt=32327.0000 ms
+0x000156D2         2  first=    6379.000 ms  median_dt=  894.9000 ms
+0x001156D2         2  first=    6379.200 ms  median_dt=  894.8000 ms
+0x0001EC79         2  first=    6454.000 ms  median_dt=36776.7000 ms
+0x0011EC79         2  first=    6454.100 ms  median_dt=36776.8000 ms
+0x0001CDE8         2  first=    6609.000 ms  median_dt=30352.3000 ms
+0x0011CDE8         2  first=    6609.100 ms  median_dt=30352.3000 ms
+0x00018D37         2  first=    6614.000 ms  median_dt=25282.7000 ms
+0x00118D37         2  first=    6614.100 ms  median_dt=25282.7000 ms
+0x00018455         2  first=    6629.000 ms  median_dt=28057.4000 ms
+0x00118455         2  first=    6629.100 ms  median_dt=28057.5000 ms
+0x00012F71         2  first=    6644.000 ms  median_dt=23647.9000 ms
+0x00112F71         2  first=    6644.100 ms  median_dt=23647.9000 ms
+0x00011816         2  first=    6709.000 ms  median_dt=30827.3000 ms
+0x00111816         2  first=    6709.100 ms  median_dt=30827.2000 ms
+0x0001B101         2  first=    6748.900 ms  median_dt=26577.6000 ms
+0x0011B101         2  first=    6749.100 ms  median_dt=26577.6000 ms
+0x00017978         2  first=    6778.900 ms  median_dt=36376.9000 ms
+0x00117978         2  first=    6779.100 ms  median_dt=36376.7000 ms
+0x00019A92         2  first=    6864.000 ms  median_dt=31777.1000 ms
+0x00119A92         2  first=    6864.100 ms  median_dt=31777.2000 ms
+0x0001F508         2  first=    6983.900 ms  median_dt=35581.9000 ms
+0x0011F508         2  first=    6984.100 ms  median_dt=35581.8000 ms
+0x0001DF98         2  first=    7033.900 ms  median_dt=20618.2000 ms
+0x0011DF98         2  first=    7034.000 ms  median_dt=20618.2000 ms
+0x00014911         2  first=    7053.900 ms  median_dt=10059.1000 ms
+0x00114911         2  first=    7054.000 ms  median_dt=10059.1000 ms
+0x0001346E         2  first=    7088.900 ms  median_dt=16638.5000 ms
+0x0011346E         2  first=    7089.000 ms  median_dt=16638.6000 ms
+0x0001F829         2  first=    7103.900 ms  median_dt=25017.8000 ms
+0x0011F829         2  first=    7104.000 ms  median_dt=25017.8000 ms
+0x0001E072         2  first=    7218.900 ms  median_dt=14373.7000 ms
+0x0011E072         2  first=    7219.000 ms  median_dt=14373.8000 ms
+0x0001EAC9         2  first=    7223.900 ms  median_dt= 8459.3000 ms
+0x0011EAC9         2  first=    7224.000 ms  median_dt= 8459.3000 ms
+0x0001340C         2  first=    7298.900 ms  median_dt=  575.0000 ms
+0x0011340C         2  first=    7299.000 ms  median_dt=  575.0000 ms
+0x00013D17         2  first=    7343.900 ms  median_dt=32422.1000 ms
+0x00113D17         2  first=    7344.000 ms  median_dt=32422.1000 ms
+0x00015816         2  first=    7393.900 ms  median_dt=24722.8000 ms
+0x00115816         2  first=    7394.000 ms  median_dt=24722.8000 ms
+0x00018C2D         2  first=    7403.900 ms  median_dt=23687.9000 ms
+0x00118C2D         2  first=    7404.000 ms  median_dt=23687.9000 ms
+0x000192C3         2  first=    7413.900 ms  median_dt=27757.5000 ms
+0x001192C3         2  first=    7414.000 ms  median_dt=27757.5000 ms
+0x00013DDE         2  first=    7438.900 ms  median_dt= 1044.9000 ms
+0x00113DDE         2  first=    7439.000 ms  median_dt= 1044.9000 ms
+0x0001A41D         2  first=    7463.900 ms  median_dt= 8324.2000 ms
+0x0011A41D         2  first=    7464.100 ms  median_dt= 8324.2000 ms
+0x0001D94D         2  first=    7468.900 ms  median_dt=15613.6000 ms
+0x0011D94D         2  first=    7469.000 ms  median_dt=15613.6000 ms
+0x0001EE95         2  first=    7508.900 ms  median_dt= 7054.3000 ms
+0x0011EE95         2  first=    7509.000 ms  median_dt= 7054.3000 ms
+0x0001B5A8         2  first=    7528.900 ms  median_dt=17618.4000 ms
+0x0011B5A8         2  first=    7529.000 ms  median_dt=17618.4000 ms
+0x00015C56         2  first=    7618.900 ms  median_dt=16638.5000 ms
+0x00115C56         2  first=    7619.000 ms  median_dt=16638.5000 ms
+0x0001C685         2  first=    7623.900 ms  median_dt= 2989.7000 ms
+0x0011C685         2  first=    7624.000 ms  median_dt= 2989.7000 ms
+0x0001C6AF         2  first=    7663.900 ms  median_dt=20703.1000 ms
+0x0011C6AF         2  first=    7664.000 ms  median_dt=20703.1000 ms
+0x0001FCC1         2  first=    7688.900 ms  median_dt=29387.4000 ms
+0x0011FCC1         2  first=    7689.000 ms  median_dt=29387.4000 ms
