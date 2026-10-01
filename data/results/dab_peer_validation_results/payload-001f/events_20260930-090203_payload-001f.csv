@@ -1,0 +1,68 @@
+utc,host_rel_ms,phase,event,details
+2026-09-30T07:02:03.684Z,281.0,initializing,session_started,injector=PCAN_USBBUS1; observer=PCAN_USBBUS2; bitrate=1000000
+2026-09-30T07:02:03.684Z,281.0,payload_001f_exact_active,phase_started,01 00 01 0F 01
+2026-09-30T07:02:40.285Z,36875.0,payload_001f_exact_active,display_observation,"{""utc"": ""2026-09-30T07:02:08.840Z"", ""host_rel_ms"": 5437.0, ""phase"": ""payload_001f_exact_active"", ""communication_icon"": ""?"", ""unit_count"": ""1"", ""error_message"": ""NA"", ""setpoint_bar"": ""3"", ""display_pressure_bar"": ""3.1"", ""status_bar_sp"": """", ""status_bar_rp"": """", ""pump_state"": ""SB"", ""mechanical_pressure_bar"": ""3.1"", ""notes"": """"}"
+2026-09-30T07:02:40.285Z,36875.0,payload_001f_exact_active,frame_sent,001F payload variant=exact_active
+2026-09-30T07:02:40.787Z,37375.0,payload_001f_exact_active,frame_sent,001F payload variant=exact_active
+2026-09-30T07:02:41.287Z,37875.0,payload_001f_exact_active,frame_sent,001F payload variant=exact_active
+2026-09-30T07:02:41.788Z,38375.0,payload_001f_exact_active,frame_sent,001F payload variant=exact_active
+2026-09-30T07:02:42.288Z,38875.0,payload_001f_exact_active,frame_sent,001F payload variant=exact_active
+2026-09-30T07:02:42.789Z,39375.0,payload_001f_exact_active,frame_sent,001F payload variant=exact_active
+2026-09-30T07:02:43.289Z,39875.0,payload_001f_exact_active,wait_started,post-payload observation; 3.000s
+2026-09-30T07:02:46.283Z,42875.0,payload_001f_exact_active,wait_completed,post-payload observation
+2026-09-30T07:03:16.447Z,73031.0,payload_001f_exact_active,display_observation,"{""utc"": ""2026-09-30T07:02:46.284Z"", ""host_rel_ms"": 42875.0, ""phase"": ""payload_001f_exact_active"", ""communication_icon"": ""?"", ""unit_count"": ""1"", ""error_message"": ""NA"", ""setpoint_bar"": ""3"", ""display_pressure_bar"": ""3.1"", ""status_bar_sp"": """", ""status_bar_rp"": """", ""pump_state"": ""SB"", ""mechanical_pressure_bar"": ""3.1"", ""notes"": """"}"
+2026-09-30T07:03:16.447Z,73031.0,payload_001f_exact_active,wait_started,recovery; 2.000s
+2026-09-30T07:03:18.437Z,75031.0,payload_001f_exact_active,wait_completed,recovery
+2026-09-30T07:03:18.437Z,75031.0,payload_001f_exact_transition,phase_started,01 00 00 FF FF
+2026-09-30T07:03:45.800Z,102390.0,payload_001f_exact_transition,display_observation,"{""utc"": ""2026-09-30T07:03:26.658Z"", ""host_rel_ms"": 83250.0, ""phase"": ""payload_001f_exact_transition"", ""communication_icon"": ""?"", ""unit_count"": ""1"", ""error_message"": ""NA"", ""setpoint_bar"": ""3"", ""display_pressure_bar"": ""3.1"", ""status_bar_sp"": """", ""status_bar_rp"": """", ""pump_state"": ""SB"", ""mechanical_pressure_bar"": ""3.1"", ""notes"": """"}"
+2026-09-30T07:03:45.801Z,102390.0,payload_001f_exact_transition,frame_sent,001F payload variant=exact_transition
+2026-09-30T07:03:46.302Z,102890.0,payload_001f_exact_transition,frame_sent,001F payload variant=exact_transition
+2026-09-30T07:03:46.802Z,103390.0,payload_001f_exact_transition,frame_sent,001F payload variant=exact_transition
+2026-09-30T07:03:47.303Z,103890.0,payload_001f_exact_transition,frame_sent,001F payload variant=exact_transition
+2026-09-30T07:03:47.804Z,104390.0,payload_001f_exact_transition,frame_sent,001F payload variant=exact_transition
+2026-09-30T07:03:48.305Z,104890.0,payload_001f_exact_transition,frame_sent,001F payload variant=exact_transition
+2026-09-30T07:03:48.805Z,105390.0,payload_001f_exact_transition,wait_started,post-payload observation; 3.000s
+2026-09-30T07:03:51.800Z,108390.0,payload_001f_exact_transition,wait_completed,post-payload observation
+2026-09-30T07:04:07.202Z,123797.0,payload_001f_exact_transition,display_observation,"{""utc"": ""2026-09-30T07:03:51.802Z"", ""host_rel_ms"": 108390.0, ""phase"": ""payload_001f_exact_transition"", ""communication_icon"": ""?"", ""unit_count"": ""1"", ""error_message"": ""NA"", ""setpoint_bar"": ""3"", ""display_pressure_bar"": ""3.1"", ""status_bar_sp"": """", ""status_bar_rp"": """", ""pump_state"": ""SB"", ""mechanical_pressure_bar"": ""3.1"", ""notes"": """"}"
+2026-09-30T07:04:07.202Z,123797.0,payload_001f_exact_transition,wait_started,recovery; 2.000s
+2026-09-30T07:04:09.206Z,125797.0,payload_001f_exact_transition,wait_completed,recovery
+2026-09-30T07:04:09.206Z,125797.0,payload_001f_byte2_zero,phase_started,01 00 00 0F 01
+2026-09-30T07:04:32.393Z,148984.0,payload_001f_byte2_zero,display_observation,"{""utc"": ""2026-09-30T07:04:12.166Z"", ""host_rel_ms"": 128750.0, ""phase"": ""payload_001f_byte2_zero"", ""communication_icon"": ""?"", ""unit_count"": ""1"", ""error_message"": ""NA"", ""setpoint_bar"": ""3"", ""display_pressure_bar"": ""3.1"", ""status_bar_sp"": """", ""status_bar_rp"": """", ""pump_state"": ""SB"", ""mechanical_pressure_bar"": ""3.1"", ""notes"": """"}"
+2026-09-30T07:04:32.393Z,148984.0,payload_001f_byte2_zero,frame_sent,001F payload variant=byte2_zero
+2026-09-30T07:04:32.894Z,149484.0,payload_001f_byte2_zero,frame_sent,001F payload variant=byte2_zero
+2026-09-30T07:04:33.395Z,149984.0,payload_001f_byte2_zero,frame_sent,001F payload variant=byte2_zero
+2026-09-30T07:04:33.896Z,150484.0,payload_001f_byte2_zero,frame_sent,001F payload variant=byte2_zero
+2026-09-30T07:04:34.396Z,150984.0,payload_001f_byte2_zero,frame_sent,001F payload variant=byte2_zero
+2026-09-30T07:04:34.897Z,151484.0,payload_001f_byte2_zero,frame_sent,001F payload variant=byte2_zero
+2026-09-30T07:04:35.397Z,151984.0,payload_001f_byte2_zero,wait_started,post-payload observation; 3.000s
+2026-09-30T07:04:38.392Z,154984.0,payload_001f_byte2_zero,wait_completed,post-payload observation
+2026-09-30T07:04:53.741Z,170328.0,payload_001f_byte2_zero,display_observation,"{""utc"": ""2026-09-30T07:04:38.397Z"", ""host_rel_ms"": 154984.0, ""phase"": ""payload_001f_byte2_zero"", ""communication_icon"": ""?"", ""unit_count"": ""1"", ""error_message"": ""NA"", ""setpoint_bar"": ""3"", ""display_pressure_bar"": ""3.1"", ""status_bar_sp"": """", ""status_bar_rp"": """", ""pump_state"": ""SB"", ""mechanical_pressure_bar"": ""3.1"", ""notes"": """"}"
+2026-09-30T07:04:53.741Z,170328.0,payload_001f_byte2_zero,wait_started,recovery; 2.000s
+2026-09-30T07:04:55.743Z,172328.0,payload_001f_byte2_zero,wait_completed,recovery
+2026-09-30T07:04:55.743Z,172328.0,payload_001f_last_byte_zero,phase_started,01 00 01 0F 00
+2026-09-30T07:05:20.025Z,196609.0,payload_001f_last_byte_zero,display_observation,"{""utc"": ""2026-09-30T07:04:59.546Z"", ""host_rel_ms"": 176125.0, ""phase"": ""payload_001f_last_byte_zero"", ""communication_icon"": ""?"", ""unit_count"": ""1"", ""error_message"": ""NA"", ""setpoint_bar"": ""3"", ""display_pressure_bar"": ""3.1"", ""status_bar_sp"": """", ""status_bar_rp"": """", ""pump_state"": ""SB"", ""mechanical_pressure_bar"": ""3.1"", ""notes"": """"}"
+2026-09-30T07:05:20.025Z,196609.0,payload_001f_last_byte_zero,frame_sent,001F payload variant=last_byte_zero
+2026-09-30T07:05:20.526Z,197109.0,payload_001f_last_byte_zero,frame_sent,001F payload variant=last_byte_zero
+2026-09-30T07:05:21.027Z,197609.0,payload_001f_last_byte_zero,frame_sent,001F payload variant=last_byte_zero
+2026-09-30T07:05:21.527Z,198109.0,payload_001f_last_byte_zero,frame_sent,001F payload variant=last_byte_zero
+2026-09-30T07:05:22.027Z,198609.0,payload_001f_last_byte_zero,frame_sent,001F payload variant=last_byte_zero
+2026-09-30T07:05:22.528Z,199109.0,payload_001f_last_byte_zero,frame_sent,001F payload variant=last_byte_zero
+2026-09-30T07:05:23.028Z,199609.0,payload_001f_last_byte_zero,wait_started,post-payload observation; 3.000s
+2026-09-30T07:05:26.020Z,202609.0,payload_001f_last_byte_zero,wait_completed,post-payload observation
+2026-09-30T07:05:44.189Z,220781.0,payload_001f_last_byte_zero,display_observation,"{""utc"": ""2026-09-30T07:05:26.024Z"", ""host_rel_ms"": 202609.0, ""phase"": ""payload_001f_last_byte_zero"", ""communication_icon"": ""?"", ""unit_count"": ""1"", ""error_message"": ""NA"", ""setpoint_bar"": ""3"", ""display_pressure_bar"": ""3.1"", ""status_bar_sp"": """", ""status_bar_rp"": """", ""pump_state"": ""SB"", ""mechanical_pressure_bar"": ""3.1"", ""notes"": """"}"
+2026-09-30T07:05:44.189Z,220781.0,payload_001f_last_byte_zero,wait_started,recovery; 2.000s
+2026-09-30T07:05:46.193Z,222781.0,payload_001f_last_byte_zero,wait_completed,recovery
+2026-09-30T07:05:46.193Z,222781.0,payload_001f_command_zero,phase_started,01 00 01 00 01
+2026-09-30T07:06:10.806Z,247390.0,payload_001f_command_zero,display_observation,"{""utc"": ""2026-09-30T07:05:52.361Z"", ""host_rel_ms"": 228953.0, ""phase"": ""payload_001f_command_zero"", ""communication_icon"": ""?"", ""unit_count"": ""1"", ""error_message"": ""NA"", ""setpoint_bar"": ""3"", ""display_pressure_bar"": ""3.1"", ""status_bar_sp"": """", ""status_bar_rp"": """", ""pump_state"": ""SB"", ""mechanical_pressure_bar"": ""3.1"", ""notes"": """"}"
+2026-09-30T07:06:10.806Z,247390.0,payload_001f_command_zero,frame_sent,001F payload variant=command_zero
+2026-09-30T07:06:11.308Z,247890.0,payload_001f_command_zero,frame_sent,001F payload variant=command_zero
+2026-09-30T07:06:11.808Z,248390.0,payload_001f_command_zero,frame_sent,001F payload variant=command_zero
+2026-09-30T07:06:12.309Z,248890.0,payload_001f_command_zero,frame_sent,001F payload variant=command_zero
+2026-09-30T07:06:12.810Z,249390.0,payload_001f_command_zero,frame_sent,001F payload variant=command_zero
+2026-09-30T07:06:13.311Z,249890.0,payload_001f_command_zero,frame_sent,001F payload variant=command_zero
+2026-09-30T07:06:13.811Z,250390.0,payload_001f_command_zero,wait_started,post-payload observation; 3.000s
+2026-09-30T07:06:16.804Z,253390.0,payload_001f_command_zero,wait_completed,post-payload observation
+2026-09-30T07:06:35.456Z,272047.0,payload_001f_command_zero,display_observation,"{""utc"": ""2026-09-30T07:06:16.810Z"", ""host_rel_ms"": 253390.0, ""phase"": ""payload_001f_command_zero"", ""communication_icon"": ""?"", ""unit_count"": ""1"", ""error_message"": ""NA"", ""setpoint_bar"": ""3"", ""display_pressure_bar"": ""3.1"", ""status_bar_sp"": """", ""status_bar_rp"": """", ""pump_state"": ""SB"", ""mechanical_pressure_bar"": ""3.1"", ""notes"": """"}"
+2026-09-30T07:06:35.456Z,272047.0,payload_001f_command_zero,wait_started,recovery; 2.000s
+2026-09-30T07:06:37.458Z,274047.0,payload_001f_command_zero,wait_completed,recovery
+2026-09-30T07:06:37.458Z,274047.0,payload_001f_command_zero,shutdown_started,completed

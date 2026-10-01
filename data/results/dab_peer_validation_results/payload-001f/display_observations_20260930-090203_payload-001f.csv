@@ -1,0 +1,11 @@
+utc,host_rel_ms,phase,communication_icon,unit_count,error_message,setpoint_bar,display_pressure_bar,status_bar_sp,status_bar_rp,pump_state,mechanical_pressure_bar,notes
+2026-09-30T07:02:08.840Z,5437.0,payload_001f_exact_active,?,1,NA,3,3.1,,,SB,3.1,
+2026-09-30T07:02:46.284Z,42875.0,payload_001f_exact_active,?,1,NA,3,3.1,,,SB,3.1,
+2026-09-30T07:03:26.658Z,83250.0,payload_001f_exact_transition,?,1,NA,3,3.1,,,SB,3.1,
+2026-09-30T07:03:51.802Z,108390.0,payload_001f_exact_transition,?,1,NA,3,3.1,,,SB,3.1,
+2026-09-30T07:04:12.166Z,128750.0,payload_001f_byte2_zero,?,1,NA,3,3.1,,,SB,3.1,
+2026-09-30T07:04:38.397Z,154984.0,payload_001f_byte2_zero,?,1,NA,3,3.1,,,SB,3.1,
+2026-09-30T07:04:59.546Z,176125.0,payload_001f_last_byte_zero,?,1,NA,3,3.1,,,SB,3.1,
+2026-09-30T07:05:26.024Z,202609.0,payload_001f_last_byte_zero,?,1,NA,3,3.1,,,SB,3.1,
+2026-09-30T07:05:52.361Z,228953.0,payload_001f_command_zero,?,1,NA,3,3.1,,,SB,3.1,
+2026-09-30T07:06:16.810Z,253390.0,payload_001f_command_zero,?,1,NA,3,3.1,,,SB,3.1,

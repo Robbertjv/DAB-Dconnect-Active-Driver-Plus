@@ -1,0 +1,11 @@
+utc,host_rel_ms,test,phase,repeat,metric,value,details
+2026-09-30T07:02:46.284Z,42875.0,payload-001f,payload_001f_exact_active,1,payload,01 00 01 0F 01,exact_active
+2026-09-30T07:02:46.284Z,42875.0,payload-001f,payload_001f_exact_active,1,observed_family_counts,2410,"{""0001"": 1202, ""0011"": 1202, ""001F"": 6}"
+2026-09-30T07:03:51.802Z,108390.0,payload-001f,payload_001f_exact_transition,2,payload,01 00 00 FF FF,exact_transition
+2026-09-30T07:03:51.802Z,108390.0,payload-001f,payload_001f_exact_transition,2,observed_family_counts,2408,"{""0001"": 1201, ""0011"": 1201, ""001F"": 6}"
+2026-09-30T07:04:38.395Z,154984.0,payload-001f,payload_001f_byte2_zero,3,payload,01 00 00 0F 01,byte2_zero
+2026-09-30T07:04:38.395Z,154984.0,payload-001f,payload_001f_byte2_zero,3,observed_family_counts,2406,"{""0001"": 1200, ""0011"": 1200, ""001F"": 6}"
+2026-09-30T07:05:26.024Z,202609.0,payload-001f,payload_001f_last_byte_zero,4,payload,01 00 01 0F 00,last_byte_zero
+2026-09-30T07:05:26.024Z,202609.0,payload-001f,payload_001f_last_byte_zero,4,observed_family_counts,2408,"{""0001"": 1201, ""0011"": 1201, ""001F"": 6}"
+2026-09-30T07:06:16.809Z,253390.0,payload-001f,payload_001f_command_zero,5,payload,01 00 01 00 01,command_zero
+2026-09-30T07:06:16.809Z,253390.0,payload-001f,payload_001f_command_zero,5,observed_family_counts,2408,"{""0001"": 1201, ""0011"": 1201, ""001F"": 6}"
