@@ -1,0 +1,3 @@
+utc,event,details
+2026-09-30T11:28:39.711Z,session_started,injector=PCAN_USBBUS1; observer=PCAN_USBBUS2
+2026-09-30T11:29:16.044Z,session_finished,completed

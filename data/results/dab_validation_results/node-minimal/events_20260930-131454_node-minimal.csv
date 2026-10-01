@@ -1,0 +1,9 @@
+utc,event,details
+2026-09-30T11:15:00.468Z,phase_started,short-only
+2026-09-30T11:15:33.638Z,operator_observation,mode=short-only; frames_sent=2999; Display showed Wait...
+2026-09-30T11:15:42.241Z,phase_started,long-only
+2026-09-30T11:16:11.230Z,operator_observation,mode=long-only; frames_sent=2999; Nothing
+2026-09-30T11:16:16.530Z,phase_started,pair
+2026-09-30T11:16:57.117Z,operator_observation,mode=pair; frames_sent=5996; communication icon flashed up in the beginning of the test. No other signs
+2026-09-30T11:17:02.777Z,phase_started,reverse-pair
+2026-09-30T11:17:23.891Z,operator_observation,mode=reverse-pair; frames_sent=5998; communication icon flashed up in the beginning of the test. No other signs

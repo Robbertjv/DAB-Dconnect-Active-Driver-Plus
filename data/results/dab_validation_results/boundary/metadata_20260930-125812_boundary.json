@@ -1,0 +1,18 @@
+{
+  "created_utc": "2026-09-30T10:58:12.920Z",
+  "script": "dab_validation_tests.py",
+  "test": "boundary",
+  "bitrate": 1000000,
+  "arguments": {
+    "command": "boundary",
+    "send": true,
+    "injector": "PCAN_USBBUS1",
+    "observer": "PCAN_USBBUS2",
+    "output": "dab_validation_results",
+    "pre": 0.25,
+    "post": 0.35,
+    "gap": 0.4,
+    "repeats": 5,
+    "handler": "<function run_boundary at 0x00000152F86CC900>"
+  }
+}

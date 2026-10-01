@@ -1,0 +1,18 @@
+{
+  "created_utc": "2026-09-30T10:59:38.456Z",
+  "script": "dab_validation_tests.py",
+  "test": "alias",
+  "bitrate": 1000000,
+  "arguments": {
+    "command": "alias",
+    "send": true,
+    "injector": "PCAN_USBBUS1",
+    "observer": "PCAN_USBBUS2",
+    "output": "dab_validation_results",
+    "pre": 0.25,
+    "post": 0.35,
+    "gap": 0.4,
+    "repeats": 5,
+    "handler": "<function run_alias at 0x0000024F848CC9A0>"
+  }
+}

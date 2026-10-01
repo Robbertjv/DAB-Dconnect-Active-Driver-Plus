@@ -1,0 +1,23 @@
+{
+  "created_utc": "2026-09-30T11:14:54.973Z",
+  "script": "dab_validation_tests.py",
+  "test": "node-minimal",
+  "bitrate": 1000000,
+  "arguments": {
+    "command": "node-minimal",
+    "send": true,
+    "injector": "PCAN_USBBUS1",
+    "observer": "PCAN_USBBUS2",
+    "output": "dab_validation_results",
+    "pre": 0.25,
+    "post": 0.35,
+    "gap": 0.4,
+    "repeats": 5,
+    "address": 3,
+    "duration": 15.0,
+    "cycle_period": 0.005,
+    "pair_gap": 0.0001,
+    "seed": 42,
+    "handler": "<function run_node_minimal at 0x0000024DFAC3CD60>"
+  }
+}
