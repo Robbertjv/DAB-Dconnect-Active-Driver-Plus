@@ -1,0 +1,6 @@
+utc,host_rel_ms,test,phase,repeat,metric,value,details
+2026-09-30T06:15:11.680Z,29187.0,suppression,suppression_recovery,1,baseline_family_counts,1,"{""0000"": 1}"
+2026-09-30T06:15:11.680Z,29187.0,suppression,suppression_recovery,1,active_family_counts,0,{}
+2026-09-30T06:15:11.680Z,29187.0,suppression,suppression_recovery,1,recovery_family_counts,0,{}
+2026-09-30T06:15:11.680Z,29187.0,suppression,suppression_recovery,1,001f_detected,0,
+2026-09-30T06:15:11.680Z,29187.0,suppression,suppression_recovery,1,recovery_delay_ms,,

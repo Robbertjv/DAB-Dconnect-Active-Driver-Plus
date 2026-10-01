@@ -1,0 +1,123 @@
+utc,host_rel_ms,phase,event,details
+2026-09-30T06:33:38.224Z,281.0,initializing,session_started,injector=PCAN_USBBUS1; observer=PCAN_USBBUS2; bitrate=1000000
+2026-09-30T06:33:38.224Z,281.0,single_pair_timeout_01,phase_started,single_pair_timeout_01
+2026-09-30T06:33:38.225Z,281.0,single_pair_timeout_01,recovery_check,normal traffic found
+2026-09-30T06:33:38.225Z,281.0,single_pair_timeout_01,frame_sent,address=2; long; token=FA06
+2026-09-30T06:33:38.226Z,281.0,single_pair_timeout_01,frame_sent,address=2; short; token=FA06
+2026-09-30T06:33:41.218Z,3281.0,single_pair_timeout_01,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:33:42.423Z,4484.0,single_pair_timeout_01,wait_completed,inter-repeat recovery
+2026-09-30T06:33:42.423Z,4484.0,single_pair_timeout_02,phase_started,single_pair_timeout_02
+2026-09-30T06:33:42.423Z,4484.0,single_pair_timeout_02,recovery_check,normal traffic found
+2026-09-30T06:33:42.423Z,4484.0,single_pair_timeout_02,frame_sent,address=2; long; token=A163
+2026-09-30T06:33:42.424Z,4484.0,single_pair_timeout_02,frame_sent,address=2; short; token=A163
+2026-09-30T06:33:45.418Z,7484.0,single_pair_timeout_02,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:33:46.622Z,8688.0,single_pair_timeout_02,wait_completed,inter-repeat recovery
+2026-09-30T06:33:46.622Z,8688.0,single_pair_timeout_03,phase_started,single_pair_timeout_03
+2026-09-30T06:33:46.622Z,8688.0,single_pair_timeout_03,recovery_check,normal traffic found
+2026-09-30T06:33:46.622Z,8688.0,single_pair_timeout_03,frame_sent,address=2; long; token=A726
+2026-09-30T06:33:46.622Z,8688.0,single_pair_timeout_03,frame_sent,address=2; short; token=A726
+2026-09-30T06:33:49.626Z,11688.0,single_pair_timeout_03,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:33:50.830Z,12891.0,single_pair_timeout_03,wait_completed,inter-repeat recovery
+2026-09-30T06:33:50.830Z,12891.0,single_pair_timeout_04,phase_started,single_pair_timeout_04
+2026-09-30T06:33:50.830Z,12891.0,single_pair_timeout_04,recovery_check,normal traffic found
+2026-09-30T06:33:50.830Z,12891.0,single_pair_timeout_04,frame_sent,address=2; long; token=0AA1
+2026-09-30T06:33:50.830Z,12891.0,single_pair_timeout_04,frame_sent,address=2; short; token=0AA1
+2026-09-30T06:33:53.830Z,15891.0,single_pair_timeout_04,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:33:55.033Z,17094.0,single_pair_timeout_04,wait_completed,inter-repeat recovery
+2026-09-30T06:33:55.033Z,17094.0,single_pair_timeout_05,phase_started,single_pair_timeout_05
+2026-09-30T06:33:55.034Z,17094.0,single_pair_timeout_05,recovery_check,normal traffic found
+2026-09-30T06:33:55.034Z,17094.0,single_pair_timeout_05,frame_sent,address=2; long; token=465D
+2026-09-30T06:33:55.034Z,17094.0,single_pair_timeout_05,frame_sent,address=2; short; token=465D
+2026-09-30T06:33:58.029Z,20094.0,single_pair_timeout_05,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:33:59.234Z,21297.0,single_pair_timeout_05,wait_completed,inter-repeat recovery
+2026-09-30T06:33:59.234Z,21297.0,single_pair_timeout_06,phase_started,single_pair_timeout_06
+2026-09-30T06:33:59.240Z,21297.0,single_pair_timeout_06,recovery_check,normal traffic found
+2026-09-30T06:33:59.241Z,21297.0,single_pair_timeout_06,frame_sent,address=2; long; token=88F2
+2026-09-30T06:33:59.241Z,21297.0,single_pair_timeout_06,frame_sent,address=2; short; token=88F2
+2026-09-30T06:34:02.232Z,24297.0,single_pair_timeout_06,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:34:03.436Z,25500.0,single_pair_timeout_06,wait_completed,inter-repeat recovery
+2026-09-30T06:34:03.436Z,25500.0,single_pair_timeout_07,phase_started,single_pair_timeout_07
+2026-09-30T06:34:03.436Z,25500.0,single_pair_timeout_07,recovery_check,normal traffic found
+2026-09-30T06:34:03.437Z,25500.0,single_pair_timeout_07,frame_sent,address=2; long; token=97F8
+2026-09-30T06:34:03.437Z,25500.0,single_pair_timeout_07,frame_sent,address=2; short; token=97F8
+2026-09-30T06:34:06.438Z,28500.0,single_pair_timeout_07,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:34:07.642Z,29703.0,single_pair_timeout_07,wait_completed,inter-repeat recovery
+2026-09-30T06:34:07.642Z,29703.0,single_pair_timeout_08,phase_started,single_pair_timeout_08
+2026-09-30T06:34:07.643Z,29703.0,single_pair_timeout_08,recovery_check,normal traffic found
+2026-09-30T06:34:07.643Z,29703.0,single_pair_timeout_08,frame_sent,address=2; long; token=F14F
+2026-09-30T06:34:07.643Z,29703.0,single_pair_timeout_08,frame_sent,address=2; short; token=F14F
+2026-09-30T06:34:10.640Z,32703.0,single_pair_timeout_08,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:34:11.846Z,33906.0,single_pair_timeout_08,wait_completed,inter-repeat recovery
+2026-09-30T06:34:11.846Z,33906.0,single_pair_timeout_09,phase_started,single_pair_timeout_09
+2026-09-30T06:34:11.846Z,33906.0,single_pair_timeout_09,recovery_check,normal traffic found
+2026-09-30T06:34:11.846Z,33906.0,single_pair_timeout_09,frame_sent,address=2; long; token=BC83
+2026-09-30T06:34:11.846Z,33906.0,single_pair_timeout_09,frame_sent,address=2; short; token=BC83
+2026-09-30T06:34:14.845Z,36906.0,single_pair_timeout_09,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:34:16.050Z,38109.0,single_pair_timeout_09,wait_completed,inter-repeat recovery
+2026-09-30T06:34:16.050Z,38109.0,single_pair_timeout_10,phase_started,single_pair_timeout_10
+2026-09-30T06:34:16.050Z,38109.0,single_pair_timeout_10,recovery_check,normal traffic found
+2026-09-30T06:34:16.050Z,38109.0,single_pair_timeout_10,frame_sent,address=2; long; token=E03E
+2026-09-30T06:34:16.051Z,38109.0,single_pair_timeout_10,frame_sent,address=2; short; token=E03E
+2026-09-30T06:34:19.044Z,41109.0,single_pair_timeout_10,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:34:20.247Z,42313.0,single_pair_timeout_10,wait_completed,inter-repeat recovery
+2026-09-30T06:34:20.247Z,42313.0,single_pair_timeout_11,phase_started,single_pair_timeout_11
+2026-09-30T06:34:20.253Z,42313.0,single_pair_timeout_11,recovery_check,normal traffic found
+2026-09-30T06:34:20.253Z,42313.0,single_pair_timeout_11,frame_sent,address=2; long; token=57E2
+2026-09-30T06:34:20.255Z,42313.0,single_pair_timeout_11,frame_sent,address=2; short; token=57E2
+2026-09-30T06:34:23.248Z,45313.0,single_pair_timeout_11,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:34:24.455Z,46516.0,single_pair_timeout_11,wait_completed,inter-repeat recovery
+2026-09-30T06:34:24.455Z,46516.0,single_pair_timeout_12,phase_started,single_pair_timeout_12
+2026-09-30T06:34:24.455Z,46516.0,single_pair_timeout_12,recovery_check,normal traffic found
+2026-09-30T06:34:24.456Z,46516.0,single_pair_timeout_12,frame_sent,address=2; long; token=80A0
+2026-09-30T06:34:24.456Z,46516.0,single_pair_timeout_12,frame_sent,address=2; short; token=80A0
+2026-09-30T06:34:27.452Z,49516.0,single_pair_timeout_12,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:34:28.657Z,50719.0,single_pair_timeout_12,wait_completed,inter-repeat recovery
+2026-09-30T06:34:28.657Z,50719.0,single_pair_timeout_13,phase_started,single_pair_timeout_13
+2026-09-30T06:34:28.663Z,50719.0,single_pair_timeout_13,recovery_check,normal traffic found
+2026-09-30T06:34:28.663Z,50719.0,single_pair_timeout_13,frame_sent,address=2; long; token=4CDA
+2026-09-30T06:34:28.664Z,50719.0,single_pair_timeout_13,frame_sent,address=2; short; token=4CDA
+2026-09-30T06:34:31.654Z,53719.0,single_pair_timeout_13,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:34:32.858Z,54922.0,single_pair_timeout_13,wait_completed,inter-repeat recovery
+2026-09-30T06:34:32.858Z,54922.0,single_pair_timeout_14,phase_started,single_pair_timeout_14
+2026-09-30T06:34:32.858Z,54922.0,single_pair_timeout_14,recovery_check,normal traffic found
+2026-09-30T06:34:32.859Z,54922.0,single_pair_timeout_14,frame_sent,address=2; long; token=66CE
+2026-09-30T06:34:32.859Z,54922.0,single_pair_timeout_14,frame_sent,address=2; short; token=66CE
+2026-09-30T06:34:35.860Z,57922.0,single_pair_timeout_14,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:34:37.064Z,59125.0,single_pair_timeout_14,wait_completed,inter-repeat recovery
+2026-09-30T06:34:37.064Z,59125.0,single_pair_timeout_15,phase_started,single_pair_timeout_15
+2026-09-30T06:34:37.065Z,59125.0,single_pair_timeout_15,recovery_check,normal traffic found
+2026-09-30T06:34:37.065Z,59125.0,single_pair_timeout_15,frame_sent,address=2; long; token=D92C
+2026-09-30T06:34:37.065Z,59125.0,single_pair_timeout_15,frame_sent,address=2; short; token=D92C
+2026-09-30T06:34:40.060Z,62125.0,single_pair_timeout_15,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:34:41.266Z,63328.0,single_pair_timeout_15,wait_completed,inter-repeat recovery
+2026-09-30T06:34:41.266Z,63328.0,single_pair_timeout_16,phase_started,single_pair_timeout_16
+2026-09-30T06:34:41.267Z,63328.0,single_pair_timeout_16,recovery_check,normal traffic found
+2026-09-30T06:34:41.267Z,63328.0,single_pair_timeout_16,frame_sent,address=2; long; token=5661
+2026-09-30T06:34:41.267Z,63328.0,single_pair_timeout_16,frame_sent,address=2; short; token=5661
+2026-09-30T06:34:44.265Z,66328.0,single_pair_timeout_16,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:34:45.472Z,67531.0,single_pair_timeout_16,wait_completed,inter-repeat recovery
+2026-09-30T06:34:45.472Z,67531.0,single_pair_timeout_17,phase_started,single_pair_timeout_17
+2026-09-30T06:34:45.475Z,67531.0,single_pair_timeout_17,recovery_check,normal traffic found
+2026-09-30T06:34:45.475Z,67531.0,single_pair_timeout_17,frame_sent,address=2; long; token=069A
+2026-09-30T06:34:45.475Z,67531.0,single_pair_timeout_17,frame_sent,address=2; short; token=069A
+2026-09-30T06:34:48.467Z,70531.0,single_pair_timeout_17,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:34:49.671Z,71734.0,single_pair_timeout_17,wait_completed,inter-repeat recovery
+2026-09-30T06:34:49.671Z,71734.0,single_pair_timeout_18,phase_started,single_pair_timeout_18
+2026-09-30T06:34:49.672Z,71734.0,single_pair_timeout_18,recovery_check,normal traffic found
+2026-09-30T06:34:49.672Z,71734.0,single_pair_timeout_18,frame_sent,address=2; long; token=680E
+2026-09-30T06:34:49.672Z,71734.0,single_pair_timeout_18,frame_sent,address=2; short; token=680E
+2026-09-30T06:34:52.674Z,74734.0,single_pair_timeout_18,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:34:53.881Z,75938.0,single_pair_timeout_18,wait_completed,inter-repeat recovery
+2026-09-30T06:34:53.881Z,75938.0,single_pair_timeout_19,phase_started,single_pair_timeout_19
+2026-09-30T06:34:53.882Z,75938.0,single_pair_timeout_19,recovery_check,normal traffic found
+2026-09-30T06:34:53.882Z,75938.0,single_pair_timeout_19,frame_sent,address=2; long; token=8164
+2026-09-30T06:34:53.882Z,75938.0,single_pair_timeout_19,frame_sent,address=2; short; token=8164
+2026-09-30T06:34:56.878Z,78938.0,single_pair_timeout_19,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:34:58.087Z,80141.0,single_pair_timeout_19,wait_completed,inter-repeat recovery
+2026-09-30T06:34:58.087Z,80141.0,single_pair_timeout_20,phase_started,single_pair_timeout_20
+2026-09-30T06:34:58.088Z,80141.0,single_pair_timeout_20,recovery_check,normal traffic found
+2026-09-30T06:34:58.088Z,80141.0,single_pair_timeout_20,frame_sent,address=2; long; token=760A
+2026-09-30T06:34:58.089Z,80141.0,single_pair_timeout_20,frame_sent,address=2; short; token=760A
+2026-09-30T06:35:01.080Z,83141.0,single_pair_timeout_20,wait_started,inter-repeat recovery; 1.200s
+2026-09-30T06:35:02.288Z,84344.0,single_pair_timeout_20,wait_completed,inter-repeat recovery
+2026-09-30T06:35:02.288Z,84344.0,single_pair_timeout_20,shutdown_started,completed

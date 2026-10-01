@@ -1,0 +1,99 @@
+utc,host_rel_ms,phase,event,details
+2026-09-30T06:45:17.395Z,265.0,initializing,session_started,injector=PCAN_USBBUS1; observer=PCAN_USBBUS2; bitrate=1000000
+2026-09-30T06:45:17.396Z,265.0,short_only_0012_500ms,phase_started,short_only_0012_500ms
+2026-09-30T06:45:17.396Z,265.0,short_only_0012_500ms,recovery_check,normal traffic found
+2026-09-30T06:45:17.397Z,265.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=CABA
+2026-09-30T06:45:17.898Z,781.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=B6B2
+2026-09-30T06:45:18.399Z,1281.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=0BA7
+2026-09-30T06:45:18.899Z,1781.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=175C
+2026-09-30T06:45:19.401Z,2281.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=21BC
+2026-09-30T06:45:19.901Z,2781.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=7791
+2026-09-30T06:45:20.401Z,3281.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=51C8
+2026-09-30T06:45:20.902Z,3781.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=B74B
+2026-09-30T06:45:21.403Z,4281.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=84ED
+2026-09-30T06:45:21.903Z,4781.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=5FBE
+2026-09-30T06:45:22.403Z,5281.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=5CB9
+2026-09-30T06:45:22.904Z,5781.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=72F4
+2026-09-30T06:45:23.405Z,6281.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=37E8
+2026-09-30T06:45:23.905Z,6781.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=523E
+2026-09-30T06:45:24.406Z,7281.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=1821
+2026-09-30T06:45:24.906Z,7781.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=C133
+2026-09-30T06:45:25.407Z,8281.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=8000
+2026-09-30T06:45:25.907Z,8781.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=7FA7
+2026-09-30T06:45:26.408Z,9281.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=F8DB
+2026-09-30T06:45:26.908Z,9781.0,short_only_0012_500ms,frame_sent,address=2; short-only; token=0C3B
+2026-09-30T06:45:27.409Z,10281.0,short_only_0012_500ms,wait_started,recovery; 2.000s
+2026-09-30T06:45:29.411Z,12281.0,short_only_0012_500ms,wait_completed,recovery
+2026-09-30T06:45:29.411Z,12281.0,short_only_0013_500ms,phase_started,short_only_0013_500ms
+2026-09-30T06:45:29.411Z,12281.0,short_only_0013_500ms,recovery_check,normal traffic found
+2026-09-30T06:45:29.411Z,12281.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=7902
+2026-09-30T06:45:29.912Z,12781.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=22F1
+2026-09-30T06:45:30.412Z,13281.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=6BCF
+2026-09-30T06:45:30.913Z,13781.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=EC74
+2026-09-30T06:45:31.414Z,14296.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=F2A0
+2026-09-30T06:45:31.914Z,14796.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=C0D4
+2026-09-30T06:45:32.415Z,15296.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=040F
+2026-09-30T06:45:32.915Z,15796.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=1CE2
+2026-09-30T06:45:33.416Z,16296.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=4C0D
+2026-09-30T06:45:33.917Z,16796.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=9E01
+2026-09-30T06:45:34.417Z,17296.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=677F
+2026-09-30T06:45:34.918Z,17796.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=20DC
+2026-09-30T06:45:35.419Z,18296.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=29D3
+2026-09-30T06:45:35.919Z,18796.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=6618
+2026-09-30T06:45:36.420Z,19296.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=BECD
+2026-09-30T06:45:36.920Z,19796.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=B324
+2026-09-30T06:45:37.421Z,20296.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=A158
+2026-09-30T06:45:37.922Z,20796.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=B7F1
+2026-09-30T06:45:38.422Z,21296.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=9A28
+2026-09-30T06:45:38.922Z,21796.0,short_only_0013_500ms,frame_sent,address=3; short-only; token=716B
+2026-09-30T06:45:39.423Z,22296.0,short_only_0013_500ms,wait_started,recovery; 2.000s
+2026-09-30T06:45:41.427Z,24296.0,short_only_0013_500ms,wait_completed,recovery
+2026-09-30T06:45:41.427Z,24296.0,short_only_0014_500ms,phase_started,short_only_0014_500ms
+2026-09-30T06:45:41.427Z,24296.0,short_only_0014_500ms,recovery_check,normal traffic found
+2026-09-30T06:45:41.428Z,24296.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=9564
+2026-09-30T06:45:41.928Z,24796.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=0789
+2026-09-30T06:45:42.429Z,25312.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=84CC
+2026-09-30T06:45:42.929Z,25812.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=DF84
+2026-09-30T06:45:43.429Z,26312.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=3783
+2026-09-30T06:45:43.930Z,26812.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=6F9A
+2026-09-30T06:45:44.430Z,27312.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=3448
+2026-09-30T06:45:44.931Z,27812.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=2537
+2026-09-30T06:45:45.431Z,28312.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=5C45
+2026-09-30T06:45:45.932Z,28812.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=CADD
+2026-09-30T06:45:46.433Z,29312.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=C978
+2026-09-30T06:45:46.933Z,29812.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=A11D
+2026-09-30T06:45:47.434Z,30312.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=5B6D
+2026-09-30T06:45:47.935Z,30812.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=7E51
+2026-09-30T06:45:48.435Z,31312.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=5763
+2026-09-30T06:45:48.936Z,31812.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=FF0D
+2026-09-30T06:45:49.436Z,32312.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=4DAA
+2026-09-30T06:45:49.936Z,32812.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=E8F3
+2026-09-30T06:45:50.437Z,33312.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=0EDB
+2026-09-30T06:45:50.938Z,33812.0,short_only_0014_500ms,frame_sent,address=4; short-only; token=A4C0
+2026-09-30T06:45:51.440Z,34312.0,short_only_0014_500ms,wait_started,recovery; 2.000s
+2026-09-30T06:45:53.441Z,36312.0,short_only_0014_500ms,wait_completed,recovery
+2026-09-30T06:45:53.441Z,36312.0,short_only_0015_500ms,phase_started,short_only_0015_500ms
+2026-09-30T06:45:53.441Z,36312.0,short_only_0015_500ms,recovery_check,normal traffic found
+2026-09-30T06:45:53.441Z,36312.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=59AB
+2026-09-30T06:45:53.943Z,36812.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=FD4E
+2026-09-30T06:45:54.443Z,37312.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=3B55
+2026-09-30T06:45:54.944Z,37828.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=2F38
+2026-09-30T06:45:55.445Z,38328.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=0FFC
+2026-09-30T06:45:55.945Z,38828.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=0FCD
+2026-09-30T06:45:56.445Z,39328.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=95AF
+2026-09-30T06:45:56.946Z,39828.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=BD6C
+2026-09-30T06:45:57.447Z,40328.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=3298
+2026-09-30T06:45:57.947Z,40828.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=446D
+2026-09-30T06:45:58.447Z,41328.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=4EE5
+2026-09-30T06:45:58.948Z,41828.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=79EE
+2026-09-30T06:45:59.449Z,42328.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=2D71
+2026-09-30T06:45:59.949Z,42828.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=90D3
+2026-09-30T06:46:00.450Z,43328.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=5B13
+2026-09-30T06:46:00.950Z,43828.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=F2AB
+2026-09-30T06:46:01.450Z,44328.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=6A84
+2026-09-30T06:46:01.951Z,44828.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=8152
+2026-09-30T06:46:02.451Z,45328.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=1E46
+2026-09-30T06:46:02.952Z,45828.0,short_only_0015_500ms,frame_sent,address=5; short-only; token=7EDB
+2026-09-30T06:46:03.452Z,46328.0,short_only_0015_500ms,wait_started,recovery; 2.000s
+2026-09-30T06:46:05.454Z,48328.0,short_only_0015_500ms,wait_completed,recovery
+2026-09-30T06:46:05.454Z,48328.0,short_only_0015_500ms,shutdown_started,completed

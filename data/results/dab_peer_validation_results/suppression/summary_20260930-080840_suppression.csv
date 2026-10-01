@@ -1,0 +1,6 @@
+utc,host_rel_ms,test,phase,repeat,metric,value,details
+2026-09-30T06:09:09.974Z,29219.0,suppression,suppression_recovery,1,baseline_family_counts,592,"{""0000"": 77, ""0001"": 253, ""0011"": 262}"
+2026-09-30T06:09:09.974Z,29219.0,suppression,suppression_recovery,1,active_family_counts,0,{}
+2026-09-30T06:09:09.974Z,29219.0,suppression,suppression_recovery,1,recovery_family_counts,0,{}
+2026-09-30T06:09:09.974Z,29219.0,suppression,suppression_recovery,1,001f_detected,0,
+2026-09-30T06:09:09.974Z,29219.0,suppression,suppression_recovery,1,recovery_delay_ms,,

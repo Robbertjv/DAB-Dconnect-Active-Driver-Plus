@@ -1,0 +1,6 @@
+utc,host_rel_ms,test,phase,repeat,metric,value,details
+2026-09-30T06:30:55.458Z,26282.0,suppression,suppression_recovery,1,baseline_family_counts,4017,"{""0011"": 2008, ""0001"": 2007, ""0003"": 1, ""0013"": 1}"
+2026-09-30T06:30:55.459Z,26282.0,suppression,suppression_recovery,1,active_family_counts,4003,"{""0011"": 4, ""0001"": 3, ""0003"": 1998, ""0013"": 1998}"
+2026-09-30T06:30:55.460Z,26282.0,suppression,suppression_recovery,1,recovery_family_counts,1204,"{""0001"": 602, ""0011"": 602}"
+2026-09-30T06:30:55.460Z,26282.0,suppression,suppression_recovery,1,001f_detected,0,
+2026-09-30T06:30:55.460Z,26282.0,suppression,suppression_recovery,1,recovery_delay_ms,0.0,
