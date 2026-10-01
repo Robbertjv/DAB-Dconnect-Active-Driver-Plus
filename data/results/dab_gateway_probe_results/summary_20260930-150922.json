@@ -1,0 +1,92 @@
+{
+  "created_utc": "2026-09-30T13:30:06.202Z",
+  "baseline": {
+    "frames": 6052,
+    "family_0011_frames": 3026,
+    "matched_0001_0011_pairs": 3025,
+    "spontaneous_target_103c_frames": 0
+  },
+  "comparison": {
+    "0011": {
+      "trials": 3,
+      "trials_with_103c_response": 0,
+      "total_response_frames": 0,
+      "late_response_frames": 0,
+      "communication_icon_observations": [
+        "none"
+      ],
+      "display_observations": [],
+      "pump_state_observations": [
+        "Stopped",
+        "stopped"
+      ]
+    },
+    "0012": {
+      "trials": 3,
+      "trials_with_103c_response": 3,
+      "total_response_frames": 100,
+      "late_response_frames": 0,
+      "communication_icon_observations": [
+        "none"
+      ],
+      "display_observations": [
+        "Blinked at beginning of the test",
+        "blinked once at the beginning of the test"
+      ],
+      "pump_state_observations": [
+        "Stopped",
+        "stopped"
+      ]
+    },
+    "0019": {
+      "trials": 3,
+      "trials_with_103c_response": 0,
+      "total_response_frames": 0,
+      "late_response_frames": 0,
+      "communication_icon_observations": [
+        "none"
+      ],
+      "display_observations": [],
+      "pump_state_observations": [
+        "Stopped"
+      ]
+    },
+    "0811": {
+      "trials": 3,
+      "trials_with_103c_response": 0,
+      "total_response_frames": 0,
+      "late_response_frames": 0,
+      "communication_icon_observations": [
+        "none"
+      ],
+      "display_observations": [],
+      "pump_state_observations": [
+        "Stopped",
+        "stopped"
+      ]
+    },
+    "0812": {
+      "trials": 3,
+      "trials_with_103c_response": 3,
+      "total_response_frames": 102,
+      "late_response_frames": 0,
+      "communication_icon_observations": [
+        "none"
+      ],
+      "display_observations": [
+        "Blinked at beginning of the test"
+      ],
+      "pump_state_observations": [
+        "Stopped"
+      ]
+    }
+  },
+  "interpretation_guide": {
+    "0011_no_response": "consistent with occupied/self slot, but not proof by itself",
+    "0012_response_with_ui_change": "consistent with simulated peer slot",
+    "0812_same_as_0012": "0x0800 is probably an alias/don't-care bit",
+    "0812_response_without_ui_change": "supports, but does not prove, a gateway class",
+    "0019_no_response": "supports upper boundary after slot 8",
+    "late_103c_frames": "possible persistent peer/network-management state"
+  }
+}

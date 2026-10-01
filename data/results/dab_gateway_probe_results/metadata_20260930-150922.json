@@ -1,0 +1,25 @@
+{
+  "created_utc": "2026-09-30T13:09:22.492Z",
+  "script": "dab_gateway_probe_test.py",
+  "send_enabled": true,
+  "injector": "PCAN_USBBUS1",
+  "observer": "PCAN_USBBUS2",
+  "bitrate": 1000000,
+  "families_hex": [
+    "0011",
+    "0012",
+    "0811",
+    "0812",
+    "0019"
+  ],
+  "token_hex": "C82D",
+  "condition": "stopped",
+  "repeats": 3,
+  "baseline_seconds": 15.0,
+  "pre_seconds": 2.0,
+  "post_seconds": 5.0,
+  "late_seconds": 25.0,
+  "cooldown_seconds": 15.0,
+  "randomize": false,
+  "seed": 42
+}
