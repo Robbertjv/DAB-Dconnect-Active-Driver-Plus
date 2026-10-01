@@ -1,0 +1,5 @@
+utc,probe_index,probe_family_hex,probe_token_hex,ad,tx_ok,n_rx_frames,n_response_groups,n_response_frames,response,token_exact_present,token_swapped_present,id_relation,first_latency_ms,burst_ms,response_signature,response_ids,candidate_reasons,ad_relation_hint
+2026-09-28T11:29:16.202+00:00,1,0012,0001,0,1,132,2,32,1,1,0,none,3444.796,80.084,103C0401/DLC4|103C0481/DLC8,103C0401|103C0481,family_rate_above_baseline|id_rate_above_baseline|new_family|new_payload_pattern|token_relation,?
+2026-09-28T11:29:16.518+00:00,2,0012,8000,0,1,134,2,34,1,0,0,none,3445.475,80.157,103C0401/DLC4|103C0481/DLC8,103C0401|103C0481,family_rate_above_baseline|id_rate_above_baseline|new_family|new_payload_pattern,?
+2026-09-28T11:29:16.832+00:00,3,0012,FFFF,0,1,134,2,34,1,0,0,none,3444.791,80.127,103C0401/DLC4|103C0481/DLC8,103C0401|103C0481,family_rate_above_baseline|id_rate_above_baseline|new_family|new_payload_pattern,?
+2026-09-28T11:29:17.142+00:00,4,0012,C82D,0,1,134,2,34,1,0,0,none,3444.858,80.170,103C0401/DLC4|103C0481/DLC8,103C0401|103C0481,family_rate_above_baseline|id_rate_above_baseline|new_family|new_payload_pattern,?

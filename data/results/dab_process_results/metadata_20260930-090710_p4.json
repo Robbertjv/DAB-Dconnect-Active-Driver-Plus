@@ -1,0 +1,43 @@
+{
+  "started_utc": "2026-09-30T07:07:10.739Z",
+  "test": "p4",
+  "channel": "PCAN_USBBUS1",
+  "bitrate": 1000000,
+  "output_dir": "dab_process_results",
+  "listen_only": false,
+  "enable_send": true,
+  "repeats": 3,
+  "baseline_s": 30.0,
+  "transition_s": 15.0,
+  "running_s": 60.0,
+  "post_s": 30.0,
+  "dwell_s": 30.0,
+  "pressure_steps": [
+    1.5,
+    1.8,
+    2.0,
+    2.2,
+    2.5,
+    2.2,
+    2.0
+  ],
+  "setpoint_steps": [
+    1.8,
+    2.0,
+    2.2,
+    2.5,
+    2.0
+  ],
+  "p4_states": [
+    "pump_off_0.0bar",
+    "pump_on_2.0bar",
+    "pump_on_2.2bar",
+    "pump_on_2.5bar",
+    "pump_off_final"
+  ],
+  "polls_per_state": 5,
+  "poll_interval_s": 5.0,
+  "response_window_s": 1.0,
+  "finished_utc": "2026-09-30T07:10:07.334Z",
+  "status": "failed: EOFError()"
+}

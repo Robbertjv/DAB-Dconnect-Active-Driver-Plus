@@ -1,0 +1,3 @@
+utc,baseline_duration_s,family_hex,n_frames,rate_hz,distinct_can_ids,dynamic_family,dlc_counts
+2026-09-28T11:41:33.723+00:00,30.000000,0001,6001,200.033333,5739,1,DLC7:6001
+2026-09-28T11:41:33.723+00:00,30.000000,0011,6000,200.000000,5738,1,DLC5:6000
