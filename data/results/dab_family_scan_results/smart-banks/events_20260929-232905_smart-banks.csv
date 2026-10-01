@@ -1,0 +1,8 @@
+utc,host_rel_ms,phase,event,details
+2026-09-29T21:29:05.273Z,234.0,initializing,session_started,"{""mode"": ""smart-banks"", ""injector_channel"": ""PCAN_USBBUS1"", ""observer_channel"": ""PCAN_USBBUS2"", ""bitrate"": 1000000, ""output_dir"": ""dab_family_scan_results"", ""enable_send"": true, ""allow_bruteforce"": false, ""include_protected"": false, ""unattended"": false, ""pause_on_response"": true, ""start_family"": 32, ""end_family"": 79, ""grammar"": ""short"", ""marker"": 3, ""token"": 51245, ""randomize"": false, ""repeats"": 3, ""pre_window_s"": 0.25, ""response_window_s"": 0.35, ""inter_probe_s"": 0.4, ""checkpoint_every"": 128, ""duration_s"": 300.0, ""exclude_families"": [], ""resume_file"": null}"
+2026-09-29T21:29:05.273Z,234.0,initializing,can_error_frame,observer
+2026-09-29T21:29:05.273Z,234.0,probe_00001_family_0022,phase_started,probe_00001_family_0022
+2026-09-29T21:29:05.274Z,234.0,probe_00001_family_0022,can_error_frame,observer
+2026-09-29T21:29:05.274Z,234.0,probe_00001_family_0022,fatal_exception,RuntimeError('CAN-fout of readerfout; scan gestopt')
+2026-09-29T21:29:05.274Z,234.0,probe_00001_family_0022,shutdown_started,failed: RuntimeError('CAN-fout of readerfout; scan gestopt')
+2026-09-29T21:29:05.274Z,234.0,probe_00001_family_0022,can_error_frame,observer
