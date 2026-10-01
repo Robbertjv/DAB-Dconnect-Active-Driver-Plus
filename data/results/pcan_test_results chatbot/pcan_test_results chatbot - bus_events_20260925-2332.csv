@@ -1,0 +1,1 @@
+﻿sequence,host_ns,host_rel_us,hardware_us,hardware_rel_us,phase,direction,kind,status_code,status_text,can_id,can_id_hex,msg_type,msg_type_hex,msg_type_labels,dlc,data_hex,token,family_hex,marker,tx_description,tx_success,error_type,error_direction,error_position,error_position_name,rx_error_counter,tx_error_counter

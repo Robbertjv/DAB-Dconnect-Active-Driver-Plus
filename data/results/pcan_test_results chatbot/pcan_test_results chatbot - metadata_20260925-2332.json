@@ -1,0 +1,65 @@
+{
+  "script": "pcan_peer_tests_chatbot.py",
+  "script_version": "2026-09-25-complete-logger-v2",
+  "started_utc": "2026-09-25T21:29:18.717+00:00",
+  "started_local": "2026-09-25T23:29:18.717+02:00",
+  "channel": "PCAN_USBBUS1",
+  "bitrate": 1000000,
+  "can_mode": "Classical CAN, extended 29-bit TX",
+  "send_enabled": true,
+  "test": "all",
+  "arguments": {
+    "send": true,
+    "test": "all",
+    "output": "pcan_peer_results",
+    "pre_seconds": 5.0,
+    "post_seconds": 10.0,
+    "baseline_seconds": 10.0,
+    "test22_burst_seconds": 1.0,
+    "test22_post_seconds": 20.0,
+    "test23_burst_seconds": 1.0,
+    "test23_post_seconds": 10.0,
+    "test24_seconds": 1.0,
+    "test24_post_seconds": 15.0,
+    "seed": null
+  },
+  "pcan_settings": {
+    "PCAN_ALLOW_ERROR_FRAMES": {
+      "supported_by_wrapper": true,
+      "status": 0,
+      "text": "OK"
+    },
+    "PCAN_ALLOW_STATUS_FRAMES": {
+      "supported_by_wrapper": true,
+      "status": 0,
+      "text": "OK"
+    },
+    "PCAN_ALLOW_ECHO_FRAMES": {
+      "supported_by_wrapper": true,
+      "status": 16384,
+      "text": "An invalid parameter was specified"
+    },
+    "PCAN_BUSOFF_AUTORESET": {
+      "supported_by_wrapper": true,
+      "status": 0,
+      "text": "OK"
+    }
+  },
+  "pair_gap_between_write_calls_us": 114.0,
+  "cycle_period_us": 5000.0,
+  "device": {
+    "product": "DAB Active Driver Plus M/M 1.5",
+    "software_version": "2.13"
+  },
+  "finished_utc": "2026-09-25T21:32:49.029+00:00",
+  "finished_local": "2026-09-25T23:32:49.029+02:00",
+  "total_records": 78906,
+  "total_rx": 77298,
+  "max_queue_batch": 14,
+  "read_status_counts": {
+    "0x00000000": 77298,
+    "0x00000020": 140834
+  },
+  "tx_sent_ok": 1608,
+  "tx_sent_failed": 0
+}

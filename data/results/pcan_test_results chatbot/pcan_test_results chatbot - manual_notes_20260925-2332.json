@@ -1,0 +1,67 @@
+[
+  {
+    "test": "baseline",
+    "N": "1",
+    "AD": "0",
+    "communication_icon": "no comm",
+    "display_message": "geen",
+    "FF_new_error": "geen",
+    "SP_bar": "",
+    "RP_bar": "",
+    "pump_state": "no",
+    "free_notes": "",
+    "local_time": "2026-09-25T23:29:55.498+02:00"
+  },
+  {
+    "test": "test21",
+    "N": "1",
+    "AD": "0",
+    "communication_icon": "no comm",
+    "display_message": "geen",
+    "FF_new_error": "geen",
+    "SP_bar": "",
+    "RP_bar": "",
+    "pump_state": "gedeactiveerd",
+    "free_notes": "",
+    "local_time": "2026-09-25T23:30:42.583+02:00"
+  },
+  {
+    "test": "test22",
+    "N": "1",
+    "AD": "0",
+    "communication_icon": "no comm",
+    "display_message": "geen",
+    "FF_new_error": "geen",
+    "SP_bar": "",
+    "RP_bar": "",
+    "pump_state": "gedeactiveerd",
+    "free_notes": "",
+    "local_time": "2026-09-25T23:31:17.442+02:00"
+  },
+  {
+    "test": "test23",
+    "N": "0",
+    "AD": "0",
+    "communication_icon": "no comm",
+    "display_message": "geen",
+    "FF_new_error": "geen",
+    "SP_bar": "",
+    "RP_bar": "",
+    "pump_state": "gedeactiveerd",
+    "free_notes": "",
+    "local_time": "2026-09-25T23:32:15.713+02:00"
+  },
+  {
+    "test": "test24",
+    "N": "1",
+    "AD": "0",
+    "communication_icon": "no comm",
+    "display_message": "geen",
+    "FF_new_error": "geen",
+    "SP_bar": "",
+    "RP_bar": "",
+    "pump_state": "gedeactiveerd",
+    "free_notes": "",
+    "local_time": "2026-09-25T23:32:39.911+02:00"
+  }
+]
