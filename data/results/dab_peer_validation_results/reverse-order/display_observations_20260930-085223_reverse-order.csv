@@ -1,0 +1,13 @@
+utc,host_rel_ms,phase,communication_icon,unit_count,error_message,setpoint_bar,display_pressure_bar,status_bar_sp,status_bar_rp,pump_state,mechanical_pressure_bar,notes
+2026-09-30T06:52:33.788Z,10265.0,reverse_2_then_3_first,NC,changes 1 to 0,NA,3,changes to 2.7 when N=0 and 3.1 when N=1,,,SB,3.1,
+2026-09-30T06:53:26.288Z,62765.0,reverse_2_then_3_both,?,2,NA,3,?,,,SB,3.1,
+2026-09-30T06:53:57.660Z,94140.0,reverse_2_then_3_first_only_again,?,changes N=1 / N=0,NA,3,3.1,,,SB,3.1,
+2026-09-30T06:54:45.973Z,142453.0,reverse_3_then_2_first,?,1,NA,3,3.1,,,SB,3.1,
+2026-09-30T06:55:33.054Z,189531.0,reverse_3_then_2_both,?,N=2,NA,3,3.1,,,SB,3.1,
+2026-09-30T06:56:02.025Z,218500.0,reverse_3_then_2_first_only_again,?,blinked to N=0 then back to N=1,NA,3,3.1,,,SB,3.1,
+2026-09-30T06:56:43.226Z,259703.0,reverse_2_then_5_first,?,1,NA,3,3.1,,,SB,3.1,
+2026-09-30T06:57:02.434Z,278906.0,reverse_2_then_5_both,?,2,NA,3,3.1,,,SB,3.1,
+2026-09-30T06:57:25.118Z,301594.0,reverse_2_then_5_first_only_again,?,changed 0/1,NA,3,3.1,,,SB,3.1,
+2026-09-30T06:58:01.762Z,338234.0,reverse_5_then_2_first,?,1,NA,3,3.1,,,SB,3.1,
+2026-09-30T06:58:21.574Z,358047.0,reverse_5_then_2_both,?,2,NA,3,3.1,,,SB,3.1,
+2026-09-30T06:58:44.665Z,381140.0,reverse_5_then_2_first_only_again,?,change between 1 and 0,NA,3,3.1,,,SB,3.1,
