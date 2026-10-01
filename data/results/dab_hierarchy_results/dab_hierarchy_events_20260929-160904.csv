@@ -1,0 +1,91 @@
+utc,host_rel_ms,phase,event,details
+2026-09-29T14:09:07.173Z,3083.723,initializing,session_started,PCAN_USBBUS1 at 1000000 bit/s
+2026-09-29T14:09:07.173Z,3083.926,T14_baseline,phase_started,T14_baseline
+2026-09-29T14:09:07.173Z,3083.989,T14_baseline,simulated_addresses_changed,[] -> []; passive baseline
+2026-09-29T14:09:07.173Z,3084.052,T14_baseline,wait_started,passive baseline; 15.0 s
+2026-09-29T14:09:22.163Z,18073.150,T14_baseline,wait_completed,passive baseline
+2026-09-29T14:09:43.632Z,39541.272,T14_baseline,operator_feedback_recorded,"N=unknown, VP=2.0"
+2026-09-29T14:09:43.632Z,39541.392,T14_address_3_active,phase_started,T14_address_3_active
+2026-09-29T14:09:43.632Z,39541.466,T14_address_3_active,simulated_addresses_changed,[] -> [3]; start address 3
+2026-09-29T14:09:43.632Z,39541.529,T14_address_3_active,wait_started,address 3 stabilization; 10.0 s
+2026-09-29T14:09:53.642Z,49551.539,T14_address_3_active,wait_completed,address 3 stabilization
+2026-09-29T14:10:30.115Z,86024.157,T14_address_3_active,operator_feedback_recorded,"N=Error, VP=2.0"
+2026-09-29T14:10:30.115Z,86024.284,T14_recovery,phase_started,T14_recovery
+2026-09-29T14:10:30.115Z,86024.355,T14_recovery,simulated_addresses_changed,[3] -> []; all simulated controllers stopped
+2026-09-29T14:10:30.115Z,86024.425,T14_recovery,wait_started,post-simulation recovery; 10.0 s
+2026-09-29T14:10:40.107Z,96015.347,T14_recovery,wait_completed,post-simulation recovery
+2026-09-29T14:11:41.018Z,156926.392,T14_recovery,operator_feedback_recorded,"N=1, VP=2.0"
+2026-09-29T14:11:41.018Z,156926.574,T15_baseline,phase_started,T15_baseline
+2026-09-29T14:11:41.018Z,156926.644,T15_baseline,simulated_addresses_changed,[] -> []; passive baseline
+2026-09-29T14:11:41.018Z,156926.704,T15_baseline,wait_started,passive baseline; 15.0 s
+2026-09-29T14:11:56.022Z,171929.995,T15_baseline,wait_completed,passive baseline
+2026-09-29T14:12:33.031Z,208938.626,T15_baseline,operator_feedback_recorded,"N=1, VP=2.0"
+2026-09-29T14:12:33.031Z,208938.747,T15_address_3_active,phase_started,T15_address_3_active
+2026-09-29T14:12:33.031Z,208938.839,T15_address_3_active,simulated_addresses_changed,[] -> [3]; start address 3
+2026-09-29T14:12:33.032Z,208938.930,T15_address_3_active,wait_started,address 3 stabilization; 10.0 s
+2026-09-29T14:12:43.026Z,218933.432,T15_address_3_active,wait_completed,address 3 stabilization
+2026-09-29T14:12:51.122Z,227029.206,T15_address_3_active,operator_feedback_recorded,"N=1, VP=2.0"
+2026-09-29T14:12:51.122Z,227029.289,T15_addresses_3_5_active,phase_started,T15_addresses_3_5_active
+2026-09-29T14:12:51.122Z,227029.368,T15_addresses_3_5_active,simulated_addresses_changed,"[3] -> [3, 5]; add address 5"
+2026-09-29T14:12:51.122Z,227029.435,T15_addresses_3_5_active,wait_started,addresses 3 and 5 stabilization; 10.0 s
+2026-09-29T14:13:01.120Z,237027.224,T15_addresses_3_5_active,wait_completed,addresses 3 and 5 stabilization
+2026-09-29T14:13:08.424Z,244330.796,T15_addresses_3_5_active,operator_feedback_recorded,"N=2, VP=0.0"
+2026-09-29T14:13:08.424Z,244330.873,T15_address_3_only_after_5_stop,phase_started,T15_address_3_only_after_5_stop
+2026-09-29T14:13:08.424Z,244330.968,T15_address_3_only_after_5_stop,simulated_addresses_changed,"[3, 5] -> [3]; stop address 5"
+2026-09-29T14:13:08.424Z,244331.033,T15_address_3_only_after_5_stop,wait_started,address 5 removal stabilization; 10.0 s
+2026-09-29T14:13:18.431Z,254337.491,T15_address_3_only_after_5_stop,wait_completed,address 5 removal stabilization
+2026-09-29T14:13:24.043Z,259950.742,T15_address_3_only_after_5_stop,operator_feedback_recorded,"N=1, VP=2.0"
+2026-09-29T14:13:24.044Z,259950.824,T15_recovery,phase_started,T15_recovery
+2026-09-29T14:13:24.044Z,259950.899,T15_recovery,simulated_addresses_changed,[3] -> []; all simulated controllers stopped
+2026-09-29T14:13:24.044Z,259950.985,T15_recovery,wait_started,post-simulation recovery; 10.0 s
+2026-09-29T14:13:34.054Z,269960.349,T15_recovery,wait_completed,post-simulation recovery
+2026-09-29T14:13:38.067Z,273973.467,T15_recovery,operator_feedback_recorded,"N=1, VP=2.0"
+2026-09-29T14:13:38.067Z,273973.697,T16_baseline,phase_started,T16_baseline
+2026-09-29T14:13:38.067Z,273973.759,T16_baseline,simulated_addresses_changed,[] -> []; passive baseline
+2026-09-29T14:13:38.067Z,273973.820,T16_baseline,wait_started,passive baseline; 15.0 s
+2026-09-29T14:13:53.071Z,288977.096,T16_baseline,wait_completed,passive baseline
+2026-09-29T14:13:59.773Z,295679.778,T16_baseline,operator_feedback_recorded,"N=1, VP=2.0"
+2026-09-29T14:13:59.773Z,295679.872,T16_address_2_active,phase_started,T16_address_2_active
+2026-09-29T14:13:59.773Z,295679.953,T16_address_2_active,simulated_addresses_changed,[] -> [2]; start address 2
+2026-09-29T14:13:59.773Z,295680.019,T16_address_2_active,wait_started,address 2 stabilization; 10.0 s
+2026-09-29T14:14:09.768Z,305673.944,T16_address_2_active,wait_completed,address 2 stabilization
+2026-09-29T14:14:15.345Z,311251.417,T16_address_2_active,operator_feedback_recorded,"N=1, VP=2.0"
+2026-09-29T14:14:15.345Z,311251.516,T16_addresses_2_3_active,phase_started,T16_addresses_2_3_active
+2026-09-29T14:14:15.346Z,311251.625,T16_addresses_2_3_active,simulated_addresses_changed,"[2] -> [2, 3]; add address 3"
+2026-09-29T14:14:15.346Z,311251.698,T16_addresses_2_3_active,wait_started,addresses 2 and 3 stabilization; 10.0 s
+2026-09-29T14:14:25.341Z,321246.815,T16_addresses_2_3_active,wait_completed,addresses 2 and 3 stabilization
+2026-09-29T14:14:28.804Z,324710.312,T16_addresses_2_3_active,operator_feedback_recorded,"N=2, VP=0.0"
+2026-09-29T14:14:28.804Z,324710.408,T16_address_2_only_after_3_stop,phase_started,T16_address_2_only_after_3_stop
+2026-09-29T14:14:28.804Z,324710.481,T16_address_2_only_after_3_stop,simulated_addresses_changed,"[2, 3] -> [2]; stop address 3"
+2026-09-29T14:14:28.804Z,324710.542,T16_address_2_only_after_3_stop,wait_started,address 3 removal stabilization; 10.0 s
+2026-09-29T14:14:38.797Z,334702.484,T16_address_2_only_after_3_stop,wait_completed,address 3 removal stabilization
+2026-09-29T14:14:44.955Z,340861.266,T16_address_2_only_after_3_stop,operator_feedback_recorded,"N=1, VP=2.0"
+2026-09-29T14:14:44.955Z,340861.367,T16_recovery,phase_started,T16_recovery
+2026-09-29T14:14:44.955Z,340861.436,T16_recovery,simulated_addresses_changed,[2] -> []; all simulated controllers stopped
+2026-09-29T14:14:44.956Z,340861.520,T16_recovery,wait_started,post-simulation recovery; 10.0 s
+2026-09-29T14:14:54.963Z,350868.813,T16_recovery,wait_completed,post-simulation recovery
+2026-09-29T14:15:00.337Z,356242.667,T16_recovery,operator_feedback_recorded,"N=1, VP=2.0"
+2026-09-29T14:15:00.337Z,356242.870,T17_baseline,phase_started,T17_baseline
+2026-09-29T14:15:00.337Z,356242.972,T17_baseline,simulated_addresses_changed,[] -> []; passive baseline
+2026-09-29T14:15:00.337Z,356243.026,T17_baseline,wait_started,passive baseline; 15.0 s
+2026-09-29T14:15:15.338Z,371243.458,T17_baseline,wait_completed,passive baseline
+2026-09-29T14:15:18.996Z,374901.391,T17_baseline,operator_feedback_recorded,"N=1, VP=2.0"
+2026-09-29T14:15:18.996Z,374901.494,T17_address_3_pre_process,phase_started,T17_address_3_pre_process
+2026-09-29T14:15:18.996Z,374901.571,T17_address_3_pre_process,simulated_addresses_changed,[] -> [3]; start long-duration address 3
+2026-09-29T14:15:18.996Z,374901.665,T17_address_3_pre_process,wait_started,address 3 pre-process stabilization; 10.0 s
+2026-09-29T14:15:29.002Z,384906.426,T17_address_3_pre_process,wait_completed,address 3 pre-process stabilization
+2026-09-29T14:15:34.521Z,390426.145,T17_address_3_pre_process,operator_feedback_recorded,"N=1, VP=2.0"
+2026-09-29T14:16:32.457Z,448361.089,T17_five_minute_process,five_minute_process_started,minimum duration=300 s
+2026-09-29T14:16:32.457Z,448361.176,T17_five_minute_process,wait_started,process checkpoint at 60 seconds; 60.0 s
+2026-09-29T14:17:32.466Z,508369.058,T17_five_minute_process,wait_completed,process checkpoint at 60 seconds
+2026-09-29T14:17:41.601Z,517504.855,T17_five_minute_process,operator_feedback_recorded,"N=1, VP=2.4"
+2026-09-29T14:17:41.601Z,517504.946,T17_five_minute_process,wait_started,process checkpoint at 120 seconds; 50.9 s
+2026-09-29T14:18:32.454Z,568356.615,T17_five_minute_process,wait_completed,process checkpoint at 120 seconds
+2026-09-29T14:18:36.669Z,572571.778,T17_five_minute_process,operator_feedback_recorded,"N=1, VP=2.5"
+2026-09-29T14:18:36.669Z,572571.917,T17_five_minute_process,wait_started,process checkpoint at 180 seconds; 55.8 s
+2026-09-29T14:19:32.462Z,628364.145,T17_five_minute_process,wait_completed,process checkpoint at 180 seconds
+2026-09-29T14:19:34.565Z,630466.850,T17_five_minute_process,operator_feedback_recorded,"N=Xx, VP=unknown"
+2026-09-29T14:19:34.565Z,630466.949,T17_five_minute_process,wait_started,process checkpoint at 240 seconds; 57.9 s
+2026-09-29T14:20:32.460Z,688361.052,T17_five_minute_process,wait_completed,process checkpoint at 240 seconds
+2026-09-29T14:20:47.222Z,703124.323,T17_five_minute_process,session_aborted_by_operator,
+2026-09-29T14:20:47.224Z,703124.475,T17_five_minute_process,shutdown_started,

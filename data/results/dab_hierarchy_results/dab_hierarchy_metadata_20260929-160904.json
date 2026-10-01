@@ -1,0 +1,36 @@
+{
+  "script": "dab_hierarchy_tests.py",
+  "started": false,
+  "utc": "2026-09-29T14:20:47.372Z",
+  "can_interface": "pcan",
+  "can_channel": "PCAN_USBBUS1",
+  "can_bitrate": 1000000,
+  "cycle_period_s": 0.005,
+  "pair_gap_s": 0.0001,
+  "long_marker_hex": "03",
+  "baseline_s": 15,
+  "stabilize_s": 10,
+  "recovery_s": 10,
+  "process_duration_s": 300,
+  "tests": {
+    "T14": [
+      3
+    ],
+    "T15": [
+      3,
+      5
+    ],
+    "T16": [
+      2,
+      3
+    ],
+    "T17": [
+      3
+    ]
+  },
+  "files": {
+    "raw": "dab_hierarchy_results\\dab_hierarchy_raw_20260929-160904.csv",
+    "events": "dab_hierarchy_results\\dab_hierarchy_events_20260929-160904.csv",
+    "observations": "dab_hierarchy_results\\dab_hierarchy_observations_20260929-160904.csv"
+  }
+}
