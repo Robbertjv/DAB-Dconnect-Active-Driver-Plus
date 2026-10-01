@@ -1,0 +1,20 @@
+{
+  "created_utc": "2026-09-30T11:17:51.100Z",
+  "script": "dab_validation_tests.py",
+  "test": "p4",
+  "bitrate": 1000000,
+  "arguments": {
+    "command": "p4",
+    "send": true,
+    "injector": "PCAN_USBBUS1",
+    "observer": "PCAN_USBBUS2",
+    "output": "dab_validation_results",
+    "pre": 0.25,
+    "post": 0.35,
+    "gap": 0.4,
+    "repeats": 5,
+    "polls": 5,
+    "poll_gap": 5.0,
+    "handler": "<function run_p4 at 0x000001C33CE2CB80>"
+  }
+}

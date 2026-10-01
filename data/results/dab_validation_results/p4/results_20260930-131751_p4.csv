@@ -1,0 +1,26 @@
+utc,test,test_value,repeat,operator_ad,operator_state,tx_can_id_hex,tx_data_hex,tx_ok,pre_frames,post_frames,response_frames,response_ids,response_payloads,decoded_addresses,first_response_latency_ms,last_response_latency_ms,error_frames,notes
+2026-09-30T11:18:33.259Z,p4,pump_off_0.0bar,1,,pump_off_0.0bar,0012C82D,01 00 00 2D C8,True,501,725,0,,,,,,0,"3.1, 3.1, 0.0, 0, none"
+2026-09-30T11:18:38.869Z,p4,pump_off_0.0bar,2,,pump_off_0.0bar,0012C82D,01 00 00 2D C8,True,495,722,0,,,,,,0,"3.1, 3.1, 0.0, 0, none"
+2026-09-30T11:18:44.478Z,p4,pump_off_0.0bar,3,,pump_off_0.0bar,0012C82D,01 00 00 2D C8,True,505,719,0,,,,,,0,"3.1, 3.1, 0.0, 0, none"
+2026-09-30T11:18:50.088Z,p4,pump_off_0.0bar,4,,pump_off_0.0bar,0012C82D,01 00 00 2D C8,True,501,734,0,,,,,,0,"3.1, 3.1, 0.0, 0, none"
+2026-09-30T11:18:55.696Z,p4,pump_off_0.0bar,5,,pump_off_0.0bar,0012C82D,01 00 00 2D C8,True,492,714,0,,,,,,0,"3.1, 3.1, 0.0, 0, none"
+2026-09-30T11:22:35.901Z,p4,pump_on_2.0bar,1,,pump_on_2.0bar,0012C82D,01 00 00 2D C8,True,511,718,0,,,,,,0,"3.2, 3.2, 43.3, 4.3, GO state"
+2026-09-30T11:22:41.510Z,p4,pump_on_2.0bar,2,,pump_on_2.0bar,0012C82D,01 00 00 2D C8,True,508,722,0,,,,,,0,"3.2, 3.2, 43.3, 4.3, GO state"
+2026-09-30T11:22:47.119Z,p4,pump_on_2.0bar,3,,pump_on_2.0bar,0012C82D,01 00 00 2D C8,True,497,729,0,,,,,,0,"3.2, 3.2, 43.3, 4.3, GO state"
+2026-09-30T11:22:52.729Z,p4,pump_on_2.0bar,4,,pump_on_2.0bar,0012C82D,01 00 00 2D C8,True,511,726,0,,,,,,0,"3.2, 3.2, 43.3, 4.3, GO state"
+2026-09-30T11:22:58.338Z,p4,pump_on_2.0bar,5,,pump_on_2.0bar,0012C82D,01 00 00 2D C8,True,508,713,0,,,,,,0,"3.2, 3.2, 43.3, 4.3, GO state"
+2026-09-30T11:24:24.041Z,p4,pump_on_2.2bar,1,,pump_on_2.2bar,0012C82D,01 00 00 2D C8,True,481,720,0,,,,,,0,"3.2, 3.2, 43.3, 4.3, GO state - Stop state"
+2026-09-30T11:24:29.651Z,p4,pump_on_2.2bar,2,,pump_on_2.2bar,0012C82D,01 00 00 2D C8,True,491,707,0,,,,,,0,"3.2, 3.2, 43.3, 4.3, GO state - Stop state"
+2026-09-30T11:24:35.261Z,p4,pump_on_2.2bar,3,,pump_on_2.2bar,0012C82D,01 00 00 2D C8,True,509,718,0,,,,,,0,"3.2, 3.2, 43.3, 4.3, GO state - Stop state"
+2026-09-30T11:24:40.870Z,p4,pump_on_2.2bar,4,,pump_on_2.2bar,0012C82D,01 00 00 2D C8,True,508,710,32,103C0401 | 103C0481,00 00 00 00 00 10 5D 14 || 00 00 00 00 00 10 5E 14 || 00 00 00 01,1,109.0,141.0,0,"3.2, 3.2, 43.3, 4.3, GO state - Stop state"
+2026-09-30T11:24:46.480Z,p4,pump_on_2.2bar,5,,pump_on_2.2bar,0012C82D,01 00 00 2D C8,True,493,708,0,,,,,,0,"3.2, 3.2, 43.3, 4.3, GO state - Stop state"
+2026-09-30T11:25:54.935Z,p4,pump_on_2.5bar,1,,pump_on_2.5bar,0012C82D,01 00 00 2D C8,True,478,725,34,103C0401 | 103C0481,00 00 00 00 00 10 5D 14 || 00 00 00 00 00 10 5E 14 || 00 00 00 01,1,63.0,94.0,0,
+2026-09-30T11:26:00.544Z,p4,pump_on_2.5bar,2,,pump_on_2.5bar,0012C82D,01 00 00 2D C8,True,481,689,0,,,,,,0,
+2026-09-30T11:26:06.153Z,p4,pump_on_2.5bar,3,,pump_on_2.5bar,0012C82D,01 00 00 2D C8,True,506,722,34,103C0401 | 103C0481,00 00 00 00 00 10 5C 14 || 00 00 00 00 00 10 5D 14 || 00 00 00 01,1,0.0,31.0,0,
+2026-09-30T11:26:11.763Z,p4,pump_on_2.5bar,4,,pump_on_2.5bar,0012C82D,01 00 00 2D C8,True,503,731,0,,,,,,0,
+2026-09-30T11:26:17.372Z,p4,pump_on_2.5bar,5,,pump_on_2.5bar,0012C82D,01 00 00 2D C8,True,514,732,0,,,,,,0,
+2026-09-30T11:26:57.154Z,p4,pump_off_final,1,,pump_off_final,0012C82D,01 00 00 2D C8,True,503,710,0,,,,,,0,".2, 3.2, 43.3, 4.3, GO state - Stop state Cycling on off between 1.6 and 3.2 bar"
+2026-09-30T11:27:02.763Z,p4,pump_off_final,2,,pump_off_final,0012C82D,01 00 00 2D C8,True,498,710,0,,,,,,0,".2, 3.2, 43.3, 4.3, GO state - Stop state Cycling on off between 1.6 and 3.2 bar"
+2026-09-30T11:27:08.373Z,p4,pump_off_final,3,,pump_off_final,0012C82D,01 00 00 2D C8,True,516,721,0,,,,,,0,".2, 3.2, 43.3, 4.3, GO state - Stop state Cycling on off between 1.6 and 3.2 bar"
+2026-09-30T11:27:13.983Z,p4,pump_off_final,4,,pump_off_final,0012C82D,01 00 00 2D C8,True,501,711,0,,,,,,0,".2, 3.2, 43.3, 4.3, GO state - Stop state Cycling on off between 1.6 and 3.2 bar"
+2026-09-30T11:27:19.592Z,p4,pump_off_final,5,,pump_off_final,0012C82D,01 00 00 2D C8,True,503,711,0,,,,,,0,".2, 3.2, 43.3, 4.3, GO state - Stop state Cycling on off between 1.6 and 3.2 bar"

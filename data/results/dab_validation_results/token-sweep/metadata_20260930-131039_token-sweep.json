@@ -1,0 +1,21 @@
+{
+  "created_utc": "2026-09-30T11:10:39.599Z",
+  "script": "dab_validation_tests.py",
+  "test": "token-sweep",
+  "bitrate": 1000000,
+  "arguments": {
+    "command": "token-sweep",
+    "send": true,
+    "injector": "PCAN_USBBUS1",
+    "observer": "PCAN_USBBUS2",
+    "output": "dab_validation_results",
+    "pre": 0.25,
+    "post": 0.35,
+    "gap": 0.4,
+    "repeats": 5,
+    "family": 18,
+    "random_tokens": 25,
+    "seed": 42,
+    "handler": "<function run_token_sweep at 0x000002741D0DCAE0>"
+  }
+}
